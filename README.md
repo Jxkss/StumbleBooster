@@ -1,4 +1,4 @@
-# StumbleBooster
+# StumbleBooster V1.0.6
 
 ### An FPS Booster/Unlocker For Stumble Guys
 ![Nouveau projet (2)](https://github.com/Jxkss/StumbleBooster/assets/115944854/0f0b1dac-3472-4c99-b21d-c968f5b67bd5)

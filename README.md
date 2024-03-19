@@ -6,6 +6,7 @@ The Software will first check if stumble guys is already running. If it is, it w
 It applies the fps boost with "qualitysettings-frameRate=Unlimited" which applies to almost all unity games including Stumble Guys.
 I also set the game cpu priority to high or even real-time depending or your computer.
 After Applying the changes and restarting the game, it will record the fps with pygetwindow and imagegrab. The recording of fps is not always accurate but it is never far off.
+A Discord Rich Presence Has Also Been Added!
             
 
 The normal fps cap for Stumble Guys without Vsync is 480fps but ive seen it go up to 800 with my Unlocker.
@@ -24,3 +25,4 @@ Since I left it like that  would really appreciate it if you didn't steal my wor
 - Python 3.10+
 - Steam ver. of Stumble Guys
 - Windows Operating System
+- For Stumble Guys To Be At It's Original Steam Directory
